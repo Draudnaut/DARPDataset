@@ -1,0 +1,10 @@
+data format:
+    (vehicle number) (vertex count) (maximum distance for vehicle) (capacity) (ridetime)
+    vertex information:
+    (index number of vertex) (x coordinate) (y coordinate) (service time) (quality of goods to be transfer) (time window start) (time window end)
+input data description:
+    one data file has only one set of data wait to be input.
+    The first line contains five integers which present the number of vehicle , total number of pickup vertex and delivery vertex,maximum distance for vehicle,capacity of the vehicle,and the ridetime respectivly.
+    Following lines contains the vertex information.
+    On the each line,there are 7 integers represents the index number of the vertex,x coordinate,y coordinate,service time,quality of goods to be transfer,time window start,time window end.
+    
